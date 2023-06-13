@@ -1,0 +1,13 @@
+.contect-container
+{
+    border-style:double;
+    margin:10rem;
+    border-style:hidden;
+    background-color:rgb(28, 26, 26) ;
+    padding: 2rem;
+    display: flex;
+
+}
+.right_div{
+    text-align: center;
+}

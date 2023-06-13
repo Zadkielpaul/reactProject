@@ -1,0 +1,36 @@
+.oce-cont-styl {
+    background: linear-gradient(to left top, #e26672, #e2805b);
+    color: white;
+    /* background: linear-gradient(to left top, #efdfd2, rgb(218, 43, 43)); */
+    height: 70vh;
+    align-items: center;
+    justify-content: center;
+    /* margin-top: 10px; */
+    margin: 10px 0px;
+    /* margin-bottom: 10px; */
+    padding: 1rem;
+    
+}
+
+.ocation-container oce-cont {
+    padding-top: 250rem;
+}
+.fad img{
+    margin-top: 8%;
+    margin-left: 11%;
+    border-radius: 40%;
+    transition: all 0.7s;
+}
+.fad img:hover{
+    /* transition: all 0.7s; */
+    width: 16%;
+    height: 16%;
+    border: 2px solid black;
+    cursor: pointer;
+    /* box-shadow: rgba(0, 0, 0, 0.4) -5px 5px, rgba(3, 3, 3, 0.3) -10px 10px, rgba(11, 11, 11, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px; */
+}
+.slidupimg
+{
+    height: 17rem;
+    width: 15rem;
+}
